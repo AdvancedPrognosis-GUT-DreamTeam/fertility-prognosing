@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,windows,data
 
 ### Data ###
-*.csv
 *.dat
 *.efx
 *.gbr
@@ -247,3 +246,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,data
+
+*.png
+*/lightning_logs/
